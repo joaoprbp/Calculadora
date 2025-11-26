@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Exercício PR: objeto Calculadora","h":"class Calculadora","d":"Section","u":"Calculadora.html#exerc-cio-pr-objeto-calculadora-heading"}];updateSearchResults();
